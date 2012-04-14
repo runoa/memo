@@ -1,0 +1,19 @@
+"2.3.1 (created: 2010/04/07 18:56:53)
+
+map j 3<C-e>
+map k 3<C-y>
+map J <C-d>
+map K <C-u>
+map 00 gg
+
+map h <C-p>
+map l <C-n>
+
+set wildoptions=auto
+
+map b :open about:mybookmarks<CR>
+map B :tabopen about:mybookmarks<CR>
+
+let g:hintsio="iO"
+let g:hintchars="FJKLASDHGUIONMERWC"
+
